@@ -1,5 +1,20 @@
 
 Hi there, I'm puppyfoot! :smiley:
+---
+
+## Programming Skills
+Languages : Java,JavaScript,HTML
+FrameWorks : Spring, Hadoop(HIVE)
+Tools : SQL Developer,Git,Slack
+Database : Oracle, MySQL
+IDE : Eclipse,Android Studio
+Operating System : Linux,CentOS,Windows
+Cloud : AWS
+
+## Certificate
+- 정보처리기사
+- SQLD
+- MOS MASTER
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=puppyfoot)](https://github.com/anuraghazra/github-readme-stats)
 
