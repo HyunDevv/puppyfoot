@@ -2,7 +2,7 @@
 ##### Hi there, I'm puppyfoot! :smiley:
 ---
 
-#### [My latest project - (IoT Safe Mobility System)](https://github.com/puppyfoot/SafetyLink)
+#### :heavy_check_mark: [My latest project - (IoT Safe Mobility System)](https://github.com/puppyfoot/SafetyLink)
 
 ---
  
