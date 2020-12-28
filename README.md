@@ -3,12 +3,12 @@
 ---
  
 ## Programming Skills
-- Languages : Java,JavaScript,HTML
+- Languages : Java, JavaScript, HTML
 - FrameWorks : Spring, Hadoop(HIVE)
-- Tools : SQL Developer,Git,Slack
+- Tools : SQL Developer, Git, Slack
 - Database : Oracle, MySQL
-- IDE : Eclipse,Android Studio
-- Operating System : Linux,CentOS,Windows
+- IDE : Eclipse, Android Studio
+- Operating System : Linux, CentOS, Windows
 - Cloud : AWS
  
   
