@@ -2,9 +2,11 @@
 ##### Hi there, I'm puppyfoot! :smiley:
 ---
 
-### [My latest project - (IoT Safe Mobility System)](https://github.com/puppyfoot/SafetyLink)
+#### [My latest project - (:car: IoT Safe Mobility System)](https://github.com/puppyfoot/SafetyLink)
+
+---
  
-## Programming Skills
+## :computer: Programming Skills
 - Languages : Java, JavaScript, HTML
 - FrameWorks : Spring, Hadoop(HIVE)
 - Tools : SQL Developer, Git, Slack
@@ -15,7 +17,7 @@
  
   
   
-## Certificate
+## :memo: Certificate
 - 정보처리기사
 - SQLD
 - MOS MASTER
